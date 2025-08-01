@@ -16,7 +16,7 @@ Backend, JSON based web API based on OpenAPI: http://localhost:8081
 
 Automatic interactive documentation with Swagger UI (from the OpenAPI backend): http://localhost:8081/docs
 
-Adminer, database web administration: http://localhost:8080
+Adminer, database web administration: http://localhost:8082
 
 Traefik UI, to see how the routes are being handled by the proxy: http://localhost:8090
 
@@ -182,7 +182,7 @@ Automatic Interactive Docs (Swagger UI): http://localhost:8081/docs
 
 Automatic Alternative Docs (ReDoc): http://localhost:8081/redoc
 
-Adminer: http://localhost:8080
+Adminer: http://localhost:8082
 
 Traefik UI: http://localhost:8090
 
